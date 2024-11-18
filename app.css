@@ -1,0 +1,35 @@
+body{font-family: Arial, Helvetica, sans-serif;
+
+}
+.container{
+    text-align: center;
+    margin: 0 auto;
+    width: 540px;
+}
+h1{
+
+
+    color: #333;
+
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+li{
+    margin: 5px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f7f7f7;
+    padding: 0;
+
+}
+.deletetask{
+    background-color: #ff6b6b; 
+    color: #f7f7f7;
+    border: none;
+    padding: 5px 8px;
+    border-radius: 5px;
+    cursor: pointer;
+}
